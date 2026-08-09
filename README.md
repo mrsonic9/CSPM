@@ -58,8 +58,11 @@ aws configure
 You will be prompted to enter:
 
 **AWS Access Key ID:** Your access key
+
 **AWS Secret Access Key:** Your secret key
+
 **Default region name:** (e.g., eu-north-1 or us-east-1)
+
 **Default output format:** json
 
 ### Usage
