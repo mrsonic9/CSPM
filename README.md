@@ -44,7 +44,7 @@ source venv/bin/activate
 ### For Windows copy this one
 ```bash
 # Activate the virtual environment (Windows)
-# venv\Scripts\activate
+venv\Scripts\activate
 ```
 ### 4. Install Dependencies
 With your virtual environment active, install the required Python libraries:
