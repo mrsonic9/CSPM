@@ -1,6 +1,6 @@
 # Cloud Infrastructure Security Posture Assessment & Automated Remediation Tool (Custom CSPM)
 
-**Author:** Muhammad Zubair  
+**Author:** mrsonic9
 **Language:** Python 3  
 **Cloud Provider:** AWS (Amazon Web Services)
 
